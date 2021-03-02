@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/scale/cal/home/bhkim/server_dependency/scal21/anaconda3/envs/pytorch_test'
+let g:netrw_dirhist_2='/scale/cal/home/bhkim/server_dependency/scal21/anaconda3/envs'
+let g:netrw_dirhist_3='/scale/cal/home/bhkim/server_dependency/scal21/anaconda3'
+let g:netrw_dirhist_4='/scale/cal/home/bhkim/server_dependency/scal21/anaconda3/lib'
+let g:netrw_dirhist_5='/scale/cal/home/bhkim/app/ml/model/dlrm/input2'
+let g:netrw_dirhist_6='/scale/cal/home/bhkim/app/ml/model/dlrm/bench'
