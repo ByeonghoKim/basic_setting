@@ -1,0 +1,17 @@
+[user]
+	email = bhkim@scale.snu.ac.kr
+	name = ByeonghoKim
+[credential]
+  helper = cache --timeout=1000
+[alias]
+  co = commit
+  ch = checkout
+  b = branch
+  tree = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset'
+  treeall = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset' --abbrev-commit --all
+[core]
+  editor = vim
+[diff]
+  tool = vimdiff
+[push]
+  default = matching
